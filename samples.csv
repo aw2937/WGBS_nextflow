@@ -1,0 +1,4 @@
+sample,fastq_r1_glob,fastq_r2_glob
+Tag-2,Tag-2_S1_L00*_R1_001.fastq.gz,Tag-2_S1_L00*_R2_001.fastq.gz
+Tag-3,Tag-3_S2_L00*_R1_001.fastq.gz,Tag-3_S2_L00*_R2_001.fastq.gz
+Tag-6,Tag-6_S3_L00*_R1_001.fastq.gz,Tag-6_S3_L00*_R2_001.fastq.gz
